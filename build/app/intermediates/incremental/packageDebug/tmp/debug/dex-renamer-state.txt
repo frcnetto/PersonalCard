@@ -1,0 +1,4 @@
+#Tue Oct 22 11:04:25 BRT 2019
+base.0=/Users/frcnetto/AndroidStudioProjects/mi_card_flutter/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,38 @@
+name: mi_card
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/img/
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: assets/fonts/Pacifico/Pacifico-Regular.ttf
+    - family: Source
+      fonts:
+        - asset: assets/fonts/Source_Sans_Pro/SourceSansPro-Black.ttf
+        - asset: assets/fonts/Source_Sans_Pro/SourceSansPro-BlackItalic.ttf
+        - asset: assets/fonts/Source_Sans_Pro/SourceSansPro-Bold.ttf
+        - asset: assets/fonts/Source_Sans_Pro/SourceSansPro-BoldItalic.ttf
+        - asset: assets/fonts/Source_Sans_Pro/SourceSansPro-ExtraLight.ttf
+        - asset: assets/fonts/Source_Sans_Pro/SourceSansPro-ExtraLightItalic.ttf
+        - asset: assets/fonts/Source_Sans_Pro/SourceSansPro-Italic.ttf
+        - asset: assets/fonts/Source_Sans_Pro/SourceSansPro-Light.ttf
+        - asset: assets/fonts/Source_Sans_Pro/SourceSansPro-LightItalic.ttf
+        - asset: assets/fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf
+        - asset: assets/fonts/Source_Sans_Pro/SourceSansPro-SemiBold.ttf
+        - asset: assets/fonts/Source_Sans_Pro/SourceSansPro-SemiBoldItalic.ttf
